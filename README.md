@@ -1,6 +1,6 @@
 # Flavor
 
-A world of constant war. Even the races fight amongst themselves. However, a prophecy was told long ago that a hero would rise and unite their people to bring an Age of Peace upon the world.
+A world of constant war. Even the races fight amongst themselves. However, a prophecy was told long ago that a hero would rise to unite their people and bring an Age of Peace.
 
 Are you the hero the prophecy foretold?
 
